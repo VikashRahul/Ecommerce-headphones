@@ -6,6 +6,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <p>ALL RIGHTS RESERVED</p>
+      <p>@ VIKASH RAHUL</p>
       <p className="icons">
         <AiFillAppstore/>
         
